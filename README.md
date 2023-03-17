@@ -1,6 +1,8 @@
 # Tech-Academy-HTML-CSS-Projects
 Tech-Academy HTML and CSS Projects
 
+Languages/library Used:  HTML CSS Bootstrap
+
 This is a display of sample websites that I made using HTML and CSS.
 Projects
 - Seven Kingdoms Site
