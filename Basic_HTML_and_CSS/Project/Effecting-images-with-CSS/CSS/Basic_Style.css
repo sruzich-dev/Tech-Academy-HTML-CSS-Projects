@@ -19,7 +19,7 @@ h1{
 SELECT ALL SQUARES IN THE ARRAY
 -----------------------------------------------------*/
 .container .squares:nth-child(-n+4) {
-    background-image: url("../images/icons/smiley_icon_2.png");
+    background-image: url("../Icons/smiley_icon_1.png");
     color: #fff;
     float: left;
     width: 100px;
@@ -62,7 +62,7 @@ SELECT ALL SQUARES IN THE ARRAY
     HOVER, TRANSLATE & TRANSFORM EFFECTS
 --------------------------------------------------*/
 .container .squares:nth-child(-n+4):hover {
-    background-image: url("../Images/Icons/smiley_icon_1.png");
+    background-image: url("../Icons/smiley_icon_2.png");
     transform: scale(.5);
     animation-name: race;
     animation-duration: 2.5s;
@@ -91,7 +91,7 @@ SELECT ALL SQUARES IN THE ARRAY
 @keyframes race {
     0%, 100% {
         transform: translateY(0px);
-        background-image: url("../Images/icons/smiley_icon_1.png")
+        background-image: url("../Icons/smiley_icon_2.png")
     }
     50% {
         transform: translateY(300px);
